@@ -1,3 +1,7 @@
+body {
+  margin: 0px;
+}
+
 h1 {
   display: flex;
   font-weight: 90px;
@@ -91,8 +95,7 @@ input {
 }
 .end_con {
   display: flex;
-  height: 243px;
-  background: white;
+  height: 289px;
 }
 .foot_1 {
   display: flex;
